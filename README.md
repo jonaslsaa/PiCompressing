@@ -9,6 +9,7 @@ This means 1TB could be compressed to maybe a 1 megabyte, which is about 0.00000
 
 #Problems
 Maybe of biggest problem is that our computers are not fast enough to do this with current algorithms (ex: Chudnovsky).
+My current approach is awful because it takes hours just to compress just a few letters, but is interesting nonetheless.
 
 #How to fix the problems?
 I have no idea... better computers and algorithms?
