@@ -21,7 +21,7 @@ def calc(d): #Calculate Pi
     return pi
 
 #STR TO BIN
-string = "vox"
+string = "test" #String to compress
 binary = bin(int.from_bytes(string.encode(), 'big'))
 
 #BIN TO STR
