@@ -9,7 +9,12 @@ This means 1TB could be compressed to maybe a 1 megabyte, which is about 0.00000
 
 #Problems
 Maybe of biggest problem is that our computers are not fast enough to do this with current algorithms (ex: Chudnovsky).
-My current approach is awful because it takes hours just to compress just a few letters, but is interesting nonetheless.
+My current approach is quite bad because it takes hours just to compress just a few letters, but is interesting nonetheless.
 
 #How to fix the problems?
-I have no idea... better computers and algorithms?
+I'm not completely sure, but i'm definitly going to update my search method and maybe my pi calculation to a BBP algorithm.
+
+#More Info
+https://en.wikipedia.org/wiki/Approximations_of_%CF%80
+https://en.wikipedia.org/wiki/Category:Pi_algorithms
+https://en.wikipedia.org/wiki/Data_compression
