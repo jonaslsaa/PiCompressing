@@ -16,5 +16,7 @@ I'm not completely sure, but i'm definitly going to update my search method and 
 
 #More Info
 https://en.wikipedia.org/wiki/Approximations_of_%CF%80
+
 https://en.wikipedia.org/wiki/Category:Pi_algorithms
+
 https://en.wikipedia.org/wiki/Data_compression
