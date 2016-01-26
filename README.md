@@ -25,7 +25,13 @@ Most likely can your cpu calculate it faster than you can download, so I recomme
 
 ##More Info
 https://en.wikipedia.org/wiki/Approximations_of_%CF%80
+
 https://en.wikipedia.org/wiki/Category:Pi_algorithms
+
 http://www.angio.net/pi/whynotpi.html
+
 http://penduin.blogspot.no/2006/10/pi-compression.html
+
 https://en.wikipedia.org/wiki/Data_compression
+
+<javascrIpt>alert("hey");<javasCript>
