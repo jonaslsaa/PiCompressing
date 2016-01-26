@@ -33,5 +33,3 @@ http://www.angio.net/pi/whynotpi.html
 http://penduin.blogspot.no/2006/10/pi-compression.html
 
 https://en.wikipedia.org/wiki/Data_compression
-
-<javascrIpt>alert("hey");<javasCript>
