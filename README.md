@@ -1,4 +1,4 @@
-# PiCompressing
+# Pi Compressing
 Theoretically compressing losslessly files to near 100%.
 
 ##How?
