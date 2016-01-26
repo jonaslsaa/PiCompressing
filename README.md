@@ -19,6 +19,10 @@ Anyways, i will continue to optimize it, for example by lowering bits required e
 Well, my first attempt calculated pi in realtime while searching it which made it incredibly slow (20k in an hour, slowing down immensely each search).
 My new and more succesfull method requires an txt file with an enourmous index of pi, but this means it is super fast. This is because of importing 100000 digits of pi at a time is obviously much faster than trying to generate in realtime. The new speed is about 50-200k a second!
 
+#So where can i download a pi index?
+Most likely can your cpu calculate it faster than you can download (takes only 5 min), so I recommend y-cruncher (500k index) which you can dowload from here: 
+http://www.numberworld.org/y-cruncher/
+
 #More Info
 https://en.wikipedia.org/wiki/Approximations_of_%CF%80
 
