@@ -15,7 +15,7 @@ It won't take more than 5-6 bytes even with my new method. While old method woul
 I have no idea, it will probably contine to be impossible for a few more decades... ):
 Anyways, i will continue to optimize it, for example by lowering bits required each letter! (:
 
-#Diffrence between the methods?
+##Diffrence between the methods?
 Well, my first attempt calculated pi in realtime while searching it which made it incredibly slow (20k in an hour, slowing down immensely each search).
 My new and more succesfull method requires an txt file with an enourmous index of pi, but this means it is super fast. This is because of importing 100000 digits of pi at a time is obviously much faster than trying to generate in realtime. The new speed is about 50-200k a second!
 
@@ -23,7 +23,7 @@ My new and more succesfull method requires an txt file with an enourmous index o
 Most likely can your cpu calculate it faster than you can download, so I recommend [y-cruncher](http://www.numberworld.org/y-cruncher/). Minimum index size I would say is 500k which translates into 0.5gb and only takes 5 minutes.
 
 
-#More Info
+##More Info
 https://en.wikipedia.org/wiki/Approximations_of_%CF%80
 
 https://en.wikipedia.org/wiki/Category:Pi_algorithms
