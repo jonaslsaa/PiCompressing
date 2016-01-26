@@ -20,7 +20,7 @@ raw_dec = int(binary, 2)
 #binary = bin(dec)
 
 #Pre-Compression
-dec = int(raw_dec/2)
+dec = int(raw_dec) #Nothing yet (GOAL: to compress to fewest ammount of bits)
 
 
 found = False
