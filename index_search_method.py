@@ -4,7 +4,6 @@ import binascii
 from math import factorial
 from decimal import Decimal, getcontext
 import datetime
-import thread
 
 string = "test"
 abc = "abcdefghijklmnopqrstuvwxyz"
